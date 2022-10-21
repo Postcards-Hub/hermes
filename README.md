@@ -1,1 +1,1 @@
-# plataforma-comunicacao
+Criação de uma plataforma de comunicação
